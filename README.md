@@ -30,12 +30,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zzyQQhi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzyQQhi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 🐍 Contribution Graph
 
