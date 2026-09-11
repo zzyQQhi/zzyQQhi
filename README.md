@@ -1,1 +1,1 @@
-<img src="/zzyQQhi/zzyQQhi/raw/output/snake.svg">
+<img src="/zzyQQhi/zzyQQhi/blob/output/snake.svg">
